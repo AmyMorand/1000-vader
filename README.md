@@ -98,13 +98,7 @@ Since this is not in the root of a domain... you must remove the `/`
 ---
 
 # Website Performance
-
-- add your URL to https://www.webpagetest.org/   (https://github.com or netlify.com URL)
-- How good is your site
-- Take a screenshot and add to your repository:
-- https://github.com/mrmccormack/1000-vader/blob/master/websitespeedtest.png
-
-- add a link https://www.webpagetest.org/result/190216_DS_279c1e6136583f438ff1c1cf2f7e7c80/ to footer of your page
+https://www.webpagetest.org/result/190219_DV_97d2192e447b0b306d1fa8ca42ad2d58/
 
 ---
 
